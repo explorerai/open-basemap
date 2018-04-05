@@ -5,6 +5,11 @@ Open Basemap
 Open Basemap is a collaborative initiative towards enabling worldwide autonomous vehicle development. More information can be found `here
 <https://medium.com/@explorer.ai/open-basemap-dcd9797f3faa>`_.
 
+---------------
+Getting Started
+---------------
+Besides git you will also need to setup git-lfs on your system by following the instructions `here <https://help.github.com/articles/installing-git-large-file-storage/>`_.
+
 ------------
 Description
 ------------
