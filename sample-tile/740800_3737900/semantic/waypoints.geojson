@@ -1,4 +1,6 @@
-[
+ {
+   "type": "FeatureCollection",
+  "features":[
   {
     "geometry": {
       "type": "Point",
@@ -760,7 +762,7 @@
       "speed_limit": 30,
       "exit_point": {
         "status": true,
-        "entrypoints": [ 740700_3737900.0.0 ]
+        "entrypoints": [ "740700_3737900.0.0" ]
       }
     }
   },
@@ -1593,7 +1595,7 @@
       "speed_limit": 30,
       "exit_point": {
         "status": true,
-        "entrypoints": [ 740700_3737900.1.0 ]
+        "entrypoints": [ "740700_3737900.1.0" ]
       }
     }
   },
@@ -3383,3 +3385,4 @@
     }
   }
 ]
+}
